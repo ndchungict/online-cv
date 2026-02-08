@@ -10,22 +10,22 @@ sidebar:
   # Profile information
   name: Nguyễn Đức Chung
   tagline: Automation Tester
-  avatar: profile1.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: chungnd.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: ndchungict@email.com
+  phone: 0943.313.848
+  timezone: VietNam # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: https://ndchungict.github.io/ # Include the full website URL, including "http://" or "https://".
+  linkedin: 
+  xing: 
+  github: ndchungict
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,26 +38,23 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Native
+      level: 
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: Chinese
+      level: 
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Reading books
       link:
 
 
-    - item: Snowboarding
+    - item: Running
       link:
 
 
-    - item: Cooking
+    - item: Watching Football
       link:
 
 
@@ -264,23 +261,21 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Serenity BDD + Java
+    level: 97%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Katalon + Groovy
+    level: 97%
 
-  - name: Angular
-    level: 98%
+  - name: Selenium
+    level: 99%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: Cypress
+    level: 70%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Playwright
+    level: 70%
 
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
